@@ -37,7 +37,7 @@ cd FINANCEFLOW
 
 2. Install required packages
 ```bash
-pip install -r dependencies.txt
+pip install -r requirements.txt
 ```
 
 3. Set up environment variables
